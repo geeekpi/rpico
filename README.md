@@ -24,4 +24,7 @@ cd rpico/
 1. https://wiki.52pi.com/index.php/Breakout_Board_For_Raspberry_Pi_Pico_SKU:_EP-0138
 2. https://wiki.52pi.com/index.php?title=Breakout_HAT_Board_For_Raspberry_Pi_Pico_SKU:_EP-0139
 3. https://wiki.52pi.com/index.php?title=BreadBoard_Kit_For_Raspberry_Pi_Pico_SKU:_EP-0140
-
+## Gallery
+![Breakout_HAT_Board_For_Raspberry_Pi_Pico_DockerPi_4channel_relay](https://raw.githubusercontent.com/geeekpi/rpico/main/images/EP-0139-4.jpg)
+![BreadBoard_Kit_For_Raspberry_Pi_Pico_LCD1602](https://raw.githubusercontent.com/geeekpi/rpico/main/images/EP-0140-4-1.jpg)
+![LED_water_flow_with_Pico](https://raw.githubusercontent.com/geeekpi/rpico/main/images/EP-0140-5.jpg)
